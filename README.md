@@ -11,7 +11,10 @@ I'm a dedicated graduate student committed to acquiring new skills and knowledge
 
 ### Undergraduate Studies
 - **Computer Science and Engineering** 
-  - HTML, CSS, SQL, Python
+  - SQL
+  - Python
+  - Machine learning
+  - Data mining
 
 ### Certifications
 - **NPTEL**: The Joy of Computing using Python
@@ -32,7 +35,7 @@ I'm a dedicated graduate student committed to acquiring new skills and knowledge
 
 ## 📚 Master's in Business Analytics
 
-Currently, I'm pursuing a Master's in Business Analytics, which I envision as a transformative step in my career. My coursework spans:
+Currently, I'm pursuing a Master's in Business Analytics, which I envision as a transformative step in my career. My coursework spans skillsets like:
 
 - R
 - SAS
