@@ -21,6 +21,12 @@ I'm a dedicated graduate student committed to acquiring new skills and knowledge
   - IBM Data Analyst Professional Certification
   - Forage-Quantium Data Analytics Job Simulation
   - Accenture-North America's Data Analysis and Visualisation Job Simulation
+  - Google Project Management
+  - Google digital marketing and e-commerce
+  - Getting Started with Power BI
+  - Mining quality prediction using machine learning and deep learning
+  - Automate and process tasks with JIRA
+  - How to create a JIRA SCRUM project
 - **LinkedIn Learning**: Corporate Finance Foundations
 
 
@@ -37,6 +43,7 @@ Currently, I'm pursuing a Master's in Business Analytics, which I envision as a 
 - Big Data
 - Accounting
 - SQL
+- SAP
 
 This education, combined with my ability to comprehend real-time industrial datasets and a meticulous investigative approach, empowers me to apply my knowledge practically for business needs.
 
