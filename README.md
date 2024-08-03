@@ -5,7 +5,7 @@
 
 ## 👐 About Me
 
-I'm a dedicated graduate student committed to acquiring new skills and knowledge to achieve my goals. With a background in Computer Science and Engineering, I developed proficiency in HTML, CSS, SQL, and Python. A compelling coursework on "Industrial Economics and Corporate Management" during my 8th semester inspired me to pursue Business Analytics as my next step.
+I'm a dedicated graduate student committed to acquiring new skills and knowledge to achieve my goals. With a background in Computer Science and Engineering, I developed proficiency in SQL, Data mining, Artificial intelligence, and Python. A compelling coursework on "Industrial Economics and Corporate Management" during my 8th semester inspired me to pursue Business Analytics as my next step.
 
 ## 🎓 Education & Certifications
 
@@ -15,6 +15,7 @@ I'm a dedicated graduate student committed to acquiring new skills and knowledge
   - Python
   - Machine learning
   - Data mining
+  - Artificial intelligence
 
 ### Certifications
 - **NPTEL**: The Joy of Computing using Python
