@@ -59,9 +59,11 @@ This experience further fueled my desire to work in roles such as business analy
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, HTML, CSS, SQL
-- **Tools & Technologies**: R, SAS, Tableau, Excel, Big Data
-- **Domains**: Business Analytics, Financial Analysis
+•	Analytical	tools:	Python(Jupyter	Notebook), Microsoft	Excel, Tableau public, SQL(MySQL), R Studio, SAS.
+•	Analytical skills: Visualization Dashboards using IBM Embedded Cognos, Exploratory Data Analysis, Data Analysis, Data Visualization, SQL , R, Tableau, Database basics, Data warehouse and business intelligence.
+•	Other development tools: HTML / CSS, Google Colaboratory, MS Office - Powerpoint, Word.
+•	Soft Skills: Collaboration, Teamwork, Communication, Critical thinking, Time management, Analytical thinking, Strategical formulation.
+
 
 ## 📫 Get in Touch
 
