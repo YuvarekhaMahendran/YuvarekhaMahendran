@@ -1,7 +1,7 @@
 
 # Hi there, I'm Yuvarekha! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+
 
 ## 👐 About Me
 
