@@ -71,7 +71,7 @@ This experience further fueled my desire to work in roles such as business analy
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Yuvarekha's LinkedIn](https://www.linkedin.com/in/yuvarekha)
+- **LinkedIn**: [Yuvarekha's LinkedIn Profile](https://www.linkedin.com/in/yuvarekha-mahendran/)
 
 
 
