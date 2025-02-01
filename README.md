@@ -5,7 +5,7 @@
 
 ## 👐 About Me
 
-I'm a dedicated graduate student committed to acquiring new skills and knowledge to achieve my goals. With a background in Computer Science and Engineering, I developed proficiency in technical expertise in programming. A compelling coursework on "Industrial Economics and Corporate Management" during my 8th semester inspired me to pursue Business Analytics as my next step.
+I'm a dedicated graduate student committed to acquiring new skills and knowledge to achieve my goals. With a background in Computer Science and Engineering, I developed proficiency in technical expertise in programming. A compelling coursework on "Industrial Economics and Corporate Management" during my 8th semester inspired me to pursue Business Analytics as my next step with my professional experience as an analyst.
 
 ## 🎓 Education & Certifications
 
